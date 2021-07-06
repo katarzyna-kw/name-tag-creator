@@ -14,7 +14,7 @@ input[type='text'] {
 }
 
 .name-tag {
-  background-color: red;
+  background-color: #00B8A9;
   padding: 10px 0 20px;
   border-radius: 20px;
   width: 350px;
@@ -23,20 +23,21 @@ input[type='text'] {
   position: relative;
 }
 .title {
-  color: white;
+  color: #F8F3D4;
   margin: 0;
   font-size: 40px;
 }
 .subtitle {
-  color: white;
+  color: #F8F3D4;
   margin: 0;
 }
 .name {
-  background-color: white;
+  background-color: #FFDE7D;
   margin: 10px 0;
   font-size: 60px;
   height: 90px;
   font-family: 'Permanent Marker', Arial, Helvetica, sans-serif;
+  color: #F6416C;
 }
 .name-tag__delete {
   position: absolute;
